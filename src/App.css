@@ -1,0 +1,61 @@
+.app{
+  text-align: center;
+}
+
+.title{
+  margin-bottom: 0;
+}
+.frame{
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  margin: 5rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 225px;
+  background-color: #818181;
+  border-radius: 2em;
+}
+
+.crad {
+  border-radius: 2em;
+  padding: 0 1em;
+  background-color: #818181;
+}
+
+.controller {
+  background: #555;
+  margin: 0 1em;
+  border: 1 px solid;
+  height: 3em;
+  width: 3em;
+  border-radius: 100%;
+  background: transparent;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.control-buttons{
+  height: 4em;
+  width: 15em;
+  margin-left: 32em;
+  background-color: #BCBCBC; 
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  border-radius: 2em;
+}
+
+
+/* .control-pannel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
