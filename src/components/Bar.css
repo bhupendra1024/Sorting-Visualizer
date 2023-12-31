@@ -35,7 +35,7 @@
 .top {
   height: 34px;
   transform-origin: top;
-  transform: rotateX(90deg);
+  transform: rotateX(-90deg);
   background: rgba(254, 254, 254, 0.15)
 }
 
