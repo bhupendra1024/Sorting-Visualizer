@@ -1,0 +1,61 @@
+@media screen and (max-width: 600px){
+  .controller {
+    background: #555;
+   
+    border: 1 px solid;
+    height: 3em;
+    width: 3em;
+    border-radius: 100%;
+    background: transparent;
+    cursor: pointer;
+    display: flex;
+    
+  }
+  
+  .control-buttons{
+    height: 4em;
+    width: 15em;
+    position: fixed;
+    left: -400px;
+    /* margin-right: 32em; */
+    background-color: #BCBCBC; 
+    
+
+    border-radius: 2em;
+  }
+  .control-pannel{
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 350px){
+  .controller {
+    background: #555;
+   
+    border: 1 px solid;
+    height: 3em;
+    width: 3em;
+    border-radius: 100%;
+    background: transparent;
+    cursor: pointer;
+    display: flex;
+    
+  }
+  
+  .control-buttons{
+    height: 4em;
+    width: 15em;
+    position: fixed;
+    left: -500px;
+    /* margin-right: 32em; */
+    background-color: #BCBCBC; 
+    
+
+    border-radius: 2em;
+  }
+  .control-pannel{
+    margin: 0;
+    padding: 0;
+  }
+}

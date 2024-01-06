@@ -10,6 +10,7 @@ import RotateLeft from "@mui/icons-material/RotateLeft.js";
 
 import Bar from "./components/Bar.jsx";
 import "./App.css";
+import "./mediaQueries.css";
 import bubblesort from "./algorithms/BubbleSort.jsx";
 
 class App extends Component {
